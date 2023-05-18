@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dexterfury
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning javascript basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raphaelsquared@gmail.com or dexterfury@yahoo.com
 
