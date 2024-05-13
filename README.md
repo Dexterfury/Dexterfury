@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dexterfury
 - 👀 I’m interested in programing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Flutter and Firebase Projects
 - 📫 How to reach me raphaelsquared@gmail.com or dexterfury@yahoo.com
 
 <!---
